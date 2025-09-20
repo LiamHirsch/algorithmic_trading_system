@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Quant Finance](https://img.shields.io/badge/Use%20Case-Quantitative%20Finance-gold.svg)]()
 
-**Professional quantitative trading platform implementing multiple systematic strategies for institutional investors**
+**Quantitative trading platform implementing multiple systematic strategies for institutional investors**
 
 Developed with institutional finance experience from **BNP Paribas**, **Bellecapital AG**, and advanced quantitative methods from **EDHEC Portfolio Analysis** certification.
 
